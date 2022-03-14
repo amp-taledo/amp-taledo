@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amp-taledo
 - 👀 I’m interested in React
 - 🌱 I’m currently learning scrum master.
-- 📫 How to reach me amitpatel23894@gmail.com / amit.patel@taledo.com
+- 📫 How to reach me amitpatel23894@gmail.com
 
 <!---
 amp-taledo/amp-taledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
